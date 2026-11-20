@@ -1,6 +1,6 @@
 {
- "quando": "2026-11-19T20:27:44",
+ "quando": "2026-11-20T19:09:16",
  "google": "ok",
  "cloudflare": "ok",
- "instagram": "faltando"
+ "instagram": "erro: HTTP 500: An active access token must be used to query information about the current user."
 }
